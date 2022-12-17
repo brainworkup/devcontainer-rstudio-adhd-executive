@@ -1,0 +1,18 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "codetour.r.devcontainer",
+  "steps": [
+    {
+      "title": "Introduction",
+      "description": "Introduction to code tour"
+    },
+    {
+      "title": "data tidying",
+      "description": "using dplyr"
+    },
+    {
+      "title": "Final step",
+      "description": "final step"
+    }
+  ]
+}
